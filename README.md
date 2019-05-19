@@ -1,4 +1,4 @@
-# iBag
+# nonlinear iBag
 
 <!-- badges: start -->
 <!-- badges: end -->
@@ -11,7 +11,7 @@ The goal of iBag is to Analyzing data from multi-platform genomics experiments c
 You can install the released version of iBag from github with:
 
 ``` r
-devtools::install_github("schi006/iBAG")
+devtools::install_github("schi006/nonlineariBAG")
 ```
 
 ## Example
